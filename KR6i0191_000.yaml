@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0191/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說老女人經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0559.xml
+    old_id: T14n0559
+hash: sha256:e8e8c75e9cb78a26023b25d6c7a67247997422bbbf62e4bdd946b607248d1542

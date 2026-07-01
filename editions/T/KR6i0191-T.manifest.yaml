@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0191/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0191/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說老女人經
+  identifiers:
+    krp: KR6i0191
+    cbeta: T14n0559
+    cbeta_old_id: T14n0559
+    authorityid: CA0001934
+    json_key: T0559
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0559.xml
+    old_id: T14n0559
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0191_000-T.yaml, hash: 'sha256:e8e8c75e9cb78a26023b25d6c7a67247997422bbbf62e4bdd946b607248d1542'}
+  - {seq: 1, filename: KR6i0191_001-T.yaml, hash: 'sha256:0062b4ea0db1919fdb0d1d568f962a3afa98f7931c9ff1363dde54facd08c387'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0191_000-T.markers.yaml, hash: 'sha256:a6d3565d68e794552eeb7661d2d2de2b82ec6aa9fe07d3f40891ff9d4be0da87'}
+  - {seq: 1, role: markers, filename: assets/KR6i0191_001-T.markers.yaml, hash: 'sha256:25c1aeacf554e34b0ec0ccd8fdc50f55d176a7486aa87d24c7d7029d3ec010d1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0191_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 766
+  label: 佛說老女人經
+  type: juan
+  level: 1
+hash: sha256:e0082474f1d166a8d81359934114dfee93b55375a1bc14e513fc3c518a82c923
