@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0191_000.yaml, hash: 'sha256:e8e8c75e9cb78a26023b25d6c7a67247997422bbbf62e4bdd946b607248d1542'}
-  - {seq: 1, filename: KR6i0191_001.yaml, hash: 'sha256:74fcd3ad4c1696072da2a534343815d32abf0fdd2272d75b9afdc996c55aac5d'}
+  - {seq: 1, filename: KR6i0191_001.yaml, hash: 'sha256:0062b4ea0db1919fdb0d1d568f962a3afa98f7931c9ff1363dde54facd08c387'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0191_001.markers.yaml, hash: 'sha256:6f354c20e86c349139e7d233449060bb8220b67cc911bc43d1036aad4ee8ed29'}
+  - {seq: 0, role: markers, filename: assets/KR6i0191_000.markers.yaml, hash: 'sha256:7b10751ed3efde3a144fe507bce9d523482ec76137d7de27d79db70acaefa6c9'}
+  - {seq: 1, role: markers, filename: assets/KR6i0191_001.markers.yaml, hash: 'sha256:de548a6a3015b844483355c0aa8ca5aaadbb006eded64eb52f9a6927d2e7c9b4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說老女人經
   type: juan
   level: 1
-hash: sha256:1a3e1baff13e5f995ab19625eaf0bc98cec7d4257a0eac2d14432f3b3f8f4b08
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aa5394f5e84b7b162fb7a770809e32d27a2301972743949471620bcc57fd5bea
